@@ -1,0 +1,16 @@
+.App-page {
+    margin: 0;
+    padding: 0;
+}
+
+.Game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px white solid;
+    width: 100dvw;
+    height: 100dvh;
+    max-width: 120dvw;
+    max-height: 120dvh;
+}

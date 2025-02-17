@@ -1,0 +1,29 @@
+.hang-component {
+    position: relative;
+}
+.hang-cord {
+    position: absolute;
+    height: 5vh;
+    width: .5vw;
+    background: rgb(235, 241, 246);
+    margin-left: 21.5vw;
+}
+.hang-top {
+    height: .5vh;
+    width: 15vw;
+    background: rgb(235, 241, 246);
+    margin-left: 6.5vw;
+}
+
+.hang-bar {
+    height: 30vh;
+    width: .5vw;
+    background: rgb(255, 255, 255);
+    margin-left: 6.5vw;
+}
+
+.hang-base{
+    width: 15vw;
+    height: .5vh;
+    background-color: aliceblue;
+}
