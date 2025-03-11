@@ -1,0 +1,7 @@
+.hang-keyboard {
+    text-transform: uppercase;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);  
+    gap: 5px 10px; 
+}
